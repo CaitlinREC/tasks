@@ -1,0 +1,12 @@
+1. What is the World Wide Web?   
+     The World Wide Web is an information system, which uses URLs to access documents and resources over the internet.
+2. What is the difference between the front-end and back-end of a web application?
+     The front end of a web application is the side that the user/ customer sees, where they can view information or interact with the web application.
+     The back end is the server side, where user data can be fetched or stored.
+3.Describe what occurs on the back end during a web interaction using the "Google query example" or create your own example.
+     There is a request- response cycle, where the back end system uses the information given in the request to build a response containing that information. 
+     This can then be fed back to the user in the correct format.
+4. What is the MERN stack? 
+     The MERN stack is a web development stack which uses MongoDB to provide a JSON based storage approach; Express to simplify server-side web development using
+     Node.js; React to provide a toolset for building dynamic user interfaces using Javascript, on both client and server side; Node.js to allow us to use Javascript
+     on both browsers and web servers.
