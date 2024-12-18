@@ -1,0 +1,31 @@
+body {
+    background-color: lightgreen;
+    width: 85%;
+    margin: auto;
+    text-align: center;
+}
+.container {
+    display: grid;
+}
+* {
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.centered {
+    width: 80vw;
+    height: 70vh;
+    margin: 15vh auto;
+    background: #e1f3b8;
+}
+@media screen and (max-width: 600px) {
+    div:container{
+    display: none;
+    }
+}
+html {
+    font-family: Helvetica;
+}
+    
